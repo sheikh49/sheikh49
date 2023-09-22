@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheikh49
+- 👋 Hi, I’m Mohammed Simran
 - 👀 I’m interested in Web development and keen on learning it
 - 🌱 I’m currently learning my B.E in CSE
 - 💞️ I’m looking to collaborate on working on web development 
